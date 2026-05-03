@@ -1,0 +1,3 @@
+# This file keeps the Backups/ directory tracked by Git.
+# At runtime, Command Nexus stores backup archives here.
+# Add backup-specific ignore patterns to .gitignore if needed.
